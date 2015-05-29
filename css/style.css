@@ -229,9 +229,9 @@ p.heading {
 	float: right;
 	z-index: 100;
 	height: 16px;
-	width: 100%;
-	background-image: -webkit-gradient(linear,left top,right top,color-stop(0.45, rgb(255,255,255)),color-stop(1, rgb(0,118,177)));
-	background-image: -moz-linear-gradient(left center,rgb(255,255,255) 45%,rgb(0,118,177) 100%);
+	width: 60%;
+	background-image: -webkit-gradient(linear,left top,right top,color-stop(0.1, rgb(255,255,255)),color-stop(1, rgb(0,118,177)));
+	background-image: -moz-linear-gradient(left center,rgb(255,255,255) 10%,rgb(0,118,177) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1, startColorstr='#FFFFFF', endColorstr='#0076B1');
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=1, startColorstr='#FFFFFF', endColorstr='#0076B1')";	
 }
