@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+form input {
+	float: right;
+	position: relative;
+	right:25px;
+}
+
+label.fortext {
+	position: relative;	
+	left: 10px;
+}
+
+label.message {
+	position: relative;
+	top: -18px;
+	left: -38px;
+}
+
+textarea.message {
+	position:relative;
+	top: -15px;
+	right: 48px;
+}
+
+input.submit {
+	color: rgb(0,115,175);
+	position: relative;
+	bottom: 6px;
+	background-color: transparent;
+	border: none;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	font-size: 0.9em;
+	letter-spacing: 0.4px;
+	
+}
+
+.submit:hover {
+	cursor: pointer;
+	border-bottom: 1px solid rgb(0,117,177);
+}

@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+#vBar {
+	height: 450px;	
+}
+
+#topHBar {
+	width: 80%;	
+}
+
+#bottomHBar {
+	width: 50%;
+	position: relative;
+	top: -61px;	
+}
+
+img.windows {
+	top: 103px;	
+}
